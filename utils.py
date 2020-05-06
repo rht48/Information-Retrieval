@@ -20,7 +20,7 @@ def idf_words(number_docs, inv_tokens):
     idf_dict = {}
     for word in inv_tokens.keys():
         idf_dict[word] = math.log(number_docs / float(len(inv_tokens[word].keys())))
-        return idf_dict
+    return idf_dict
 
 
 def tf_idf_doc(tf_doc, idf_doc):
