@@ -1,0 +1,422 @@
+.I 1
+.T
+An Integrated Understander
+.A
+Schank, R.C.
+Lebowitz, M.
+Birnbarim, L.
+.W
+    A new type of natural language parser is presented.  The idea behind
+this parser is to map input sentences into the deepest form of the
+representation of their meaning and inferences, as is appropriate.  The
+parser is not distinct from an entire understanding system.  It uses an
+integrated conception of inferences, scripts, plans and other knowledge to
+aid in the parse.  Furthermore, it does not attempt to parse everything it
+sees.  Rather, it determines what is most interesting and concentrates on
+that, ignoring the rest.
+.B
+(Am. J. of Computational Linguistics, Vol. 6, No. 1, January-March 1980,
+pp. 13-30)
+
+.I 2
+.W
+How can actually pertinent data, as opposed to references or entire articles
+themselves, be retrieved automatically in response to information requests?
+.I 3
+.W
+Information retrieval is still such a new and experimental field that a
+line distinguishing research and practice is often difficult - even
+impossible - to draw.  Are there, however, actual centers of research
+on information retrieval?  If so, in which countries are they
+located?  Who supports them - government, business, universities, or
+libraries?  Can information retrieval as a specialized research
+discipline be said to be emerging, or is it still an amalgam of skills
+from other fields, such as mathematics, engineering, and library
+science?  In other words, tell me about information retrieval research.
+
+.I 4
+.W
+Attempts at computerized and mechanized systems for general libraries.
+Problems and methods of automated general author and title indexing systems.
+.I 5
+.W
+Information dissemination by journals and periodicals.
+.I 6
+.T
+The Interface Between Computerized Retrieval Systems and Micrographic
+Retrieval Systems
+.A
+McMurdo, G.
+.W
+    This paper notes the benefits accruing from interaction between computerized
+retrieval systems and micrographic retrieval systems.  It reviews current state
+of automated micrographic retrieval technology.  The conclusion is that with a
+combination of advances in communications technology, and sophisticated indexing
+input from libraries and information scientists, the new generation of automated
+micrographs devices may constitute the on-line document retrieval systems of the
+future.
+.B
+(Journal of Information Science I, 1980, pp. 345-349)
+
+.I 7
+.T
+User-Responsive Subject Control in Bibliographic Retrieval Systems
+.A
+Tague, J.M.
+.W
+    A study was carried out of the relationship between the vocabulary of
+user queries and the vocabulary of documents relevant to the queries, and
+the value of adding to the document description record in a retrieval system
+keywords from previous queries for which the document had proved useful.
+Two test databases incorporating user query keywords were implemented at
+the School of Library and Information Science, University of Western
+Ontario.  Clustering of the documents via title and user keywords, a
+statistical analysis of title-user keyword co-occurrences, and retrieval
+tests were used to examine the effect of the added keywords.  Results
+showed the impracticality of the procedure in an operational setting, but
+indicated the value of analyses with sample data in the development and
+maintenance of keyword dictionaries and thesauri.
+.B
+(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 149-159)
+
+.I 8
+.T
+A Translating Computer Interface for End-User Operation of Heterogeneous
+Retrieval Systems.  I. Design
+.A
+Marcus, R.S.
+Reintjes, J.F.
+.W
+    Online retrieval systems may be difficult to use, especially by end
+users, because of heterogeneity and complexity.  Investigations have concerned
+the concept of a translating computer interface as a means to simplify access
+to, and operation of, heterogeneous bibliographic retrieval systems and
+databases.  The interface allows users to make requests in a common language.
+These requests are translated by the interface into the appropriate commands
+for whatever system is being interrogated.  System responses may also be
+transformed by the interface into a common form before being given to the
+users.  Thus, the network of different systems is made to look like a single
+"virtual" system to the user.  The interface also provides instruction and
+other search aids for the user.  The philosophy, design, and implementation
+of an experimental interface named CONIT are described.
+.B
+(JASIS, Vol. 32, No. 4, July 1981, pp. 287-303)
+
+.I 9
+.W
+What possibilities are there for automatic grammatical and contextual analysis
+of articles for inclusion in an information retrieval system?
+.I 10
+.W
+Testing automated information systems.
+.I 11
+.W
+I am seeking information on the use of data processing in libraries and
+the mechanization of routine library processes and procedures.  I would
+like descriptions of both general and specific applications of
+automation in such areas as circulation, cataloging, acquisitions,
+serial records, and other record-keeping.  Examples should be based on
+the operation of a conventional public or university library, or
+practices in a special library which could also be applied in a public
+or university library.  Give descriptions of equipment and operations,
+both present and projected.
+
+.I 12
+.T
+The Measurement of Term Importance in Automatic Indexing
+.A
+Salton, G.
+Wu, H.
+Yu, C.T.
+.W
+    The frequency characteristics of terms in the documents of a collection
+have been used as indicators of term importance for content analysis and
+indexing purposes.  In particular, very rare or very frequent terms are
+normally believed to be less effective than medium-frequency terms.  Recently
+automatic indexing theories have been devised that use not only the term
+frequency characteristics but also the relevance properties of the terms.
+The major term-weighting theories are first briefly reviewed.  The term
+precision and term utility weights that are based on the occurrence
+characteristics of the terms in the relevant, as opposed to the nonrelevant,
+documents of a collection are then introduced.  Methods are suggested for
+estimating the relevance properties of the terms based on their overall
+occurrence characteristics in the collection.  Finally, experimental
+evaluation results are shown comparing the weighting systems using the term
+relevance properties with the more conventional frequency-based methodologies.
+.B
+(JASIS, Vol. 32, No. 3, May 1981, pp. 175-186)
+
+.I 13
+.W
+Coordinate indexing utilizes descriptors for controlled language.  Of
+what use are descriptors in the construction of an index?  How can
+descriptors be used for searching in an information retrieval system?
+
+.I 14
+.T
+Performance Testing of a Book and Its Index as a Information Retrieval
+System
+.A
+Bennion, B.C.
+.W
+    The retrieval performance of book indexes can be measured in terms of
+their ability to direct a user selectively to text material whose identity
+but not location is known.  The method requires human searchers to base
+their searching strategies on actual passages from the book rather than on
+test queries, natural or contrived.  It circumvents the need for relevance
+judgement, but still yields performance indicators that correspond
+approximately to the recall and precision ratios of large document retrieval
+system evaluation.  A preliminary application of the method to the subject
+indexing of two major encyclopedias showed one encyclopedia apparently
+superior in both the finding and discrimination abilities of retrieval
+performance.  The method is presently best suited for comparative testing
+since its ability to yield absolute or reproducible measures is as yet not
+established.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 264-270)
+
+.I 15
+.W
+What is information science?  Give definitions where possible.
+.I 16
+.W
+Automated information in the medical field.
+.I 17
+.W
+What is the effect on librarians of automation?  Note the new types
+of technology to be used in the library which will have an effect on
+the status, position, and function of the librarians.  What changes
+are being contemplated or have been initiated to introduce automation
+into the education of librarians?
+
+.I 18
+.T
+Fuzzy Requests:  An Approach to Weighted Boolean Searches
+.A
+Bookstein, A.
+.W
+    This article concerns the problem of how to permit a patron to
+represent the relative importance of various index terms in a Boolean
+request while retaining the desirable properties of a Boolean system.
+The character of classical Boolean systems is reviewed and related to the
+notion of fuzzy sets.  The fuzzy set concept then forms the basis of the
+concept of a fuzzy request in which weights are assigned to index terms.
+Ther properties of such a system are discussed, and it is shown that such
+systems retain the manipulability of traditional Boolean requests.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 240-247)
+
+.I 19
+.T
+Experiments in Local Metrical Feedback in Full-Text Retrieval Systems
+.A
+Attar, R.
+Fraenkel, A.S.
+.W
+    A method of iterative searching, using the results of one iteration search
+to formulate the next iteration search, was applied to a full-text database
+consisting of some 2400 documents and 1,3000,000 text-words of Hebrew and
+Aramaic.  The iterative method consists of clustering the documents returned
+in an iteration, using weighting by proximity and by frequency simultaneously.
+The process produces searchonyms, which are terms synonymous to keywords in the
+context of a single query.  Augumenting or replacing keywords by searchonyms
+via manual or automatic feedback leads to the formulation of the next iteration
+search.  The results of the experiment are consistent with those of an earlier
+small-scale experiment on an English database, and indicate that in contrast
+to global clustering where the size of matrices limits applications to small
+databases and improvements are doubtful, local metrical methods appear to be
+well suited to arbitrarily large databases, improving precision and recall
+simultaneously.  Further experiments using more test-queries run on even
+larger databases should be made to collect further evidence as to the
+performance of these methods.
+.B
+(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 115-126)
+
+.I 20
+.T
+Partial-Match Retrieval Using Indexed Descriptor Files
+.A
+Pfaltz, J.L.
+Berman, W.J.
+Cagley, E.M.
+.W
+    In this paper we describe a practical method of partial-match retrieval
+in very large data files.  A binary code word, called a descriptor, is
+associated with each record of the file.  These record descriptors are
+then used to form a derived descriptor for a block of several records,
+which will serve as an index for the block as a whole; hence, the name
+"indexed descriptor files."
+
+    First the structure of these files is described and a simple, efficient
+retrieval algorithm is presented.  Then its expected behavior, in terms of
+storage accesses, is analyzed in detail.  Two different file creation
+procedures are sketched, and a number of ways in which the file organization
+can be "tuned" to a particular application is suggested.
+.B
+(Commun. ACM, Vol. 23, No. 9, September 1980, pp. 522-528)
+
+.I 21
+.T
+A Translating Computer Interface for End-User Operation of
+Heterogeneous Retrieval Systems.  II. Evaluations
+.A
+Marcus, R.S.
+Reintjes, J.F.
+.W
+    The evaluation of the concept of a translating compuyter interface for
+simplifying operation of multiple, heterogenous online bibliographic
+retrieval systems has been undertaken.  An experimental retrieval system,
+named CONIT, was built and tested under controlled conditions with
+inexperienced end users.  A detailed analysis of the experimental usages
+showed that users were able to master interface operation sufficiently well
+to find relevant document references.  Success was attributed, in part,
+to a simple command language, adequate online instruction, and a simplified
+natural-language, keyword/stem approach to searching.  It is concluded that
+operational interfaces of the type studied can provide for increased usability
+of existing system in a cost effective manner, especially for searchers.
+Furthermore, more advanced interfaces based on improved instruction and
+automated search strategy techniques could further enhance retrieval
+effectiveness for a wide class of users.
+.B
+(JASIS, Vol. 32, No. 4, July 1981, pp. 304-317)
+
+.I 22
+.T
+Adaptive Design for Decision Support Systems
+.A
+Keen, P.G.W.
+.W
+    Decision Support Systems (DSS) represent a concept of the role of
+computers within the decision making process.  The term has become a
+rallying cry for researchers, practitioners, and managers concerned that
+Management Science and Management Information Systems fields have become
+unnecessarily narrow in focus.  As with many rallying cries, the term is
+not well defined.  For some writers, DSS simply mean interactive systems
+for use by managers.  To others, the key issue is support, rather than
+system.  They focus on understanding and improving the decision process;
+a DSS is then designed using any available and suitable technology. Some
+researchers view DSS as a subfield of MIS, while others regard it as an
+extension of Management Science techniques.  The former define Decision
+Support as providing managers with access to data and the latter as giving
+them access to analytic models.
+
+    The key argument of this paper is that the term DSS is relevant to
+situations where a "final" system can be developed only through an
+adaptive process of learning and evolution.  The design strategy must
+then focus on getting finished; this is very different from Management
+Science and Data Processing approaches.  The research issued for DSS
+center around adaption and evolution; they include managerial learning
+representation of tasks and user behavior, design architecture and
+strategies for getting started.
+.B
+(Database, Vol. 12, No. 1-2, Fall 1980)
+
+.I 23
+.W
+Specific advantages of computerized index systems.
+.I 24
+.W
+What is the status of machine translation?  What progress has been
+made in the use of computers to transfer from one language to another
+with some degree of automation?  What problems and stumbling blocks
+have been found and are they considered to be insurmountable limitations
+or only challenging to the field of documentation on an international scale?
+
+.I 25
+.T
+Using an Online Microfiche Catalog for Technical Service and Retrieval of
+Bibliographic Data
+.A
+Hayes, R.M.
+Borko, H.
+.W
+    A prototype system is created that integrates a microfiche catalog
+into an online computer system for bibliographic control.  Costs and
+operational data are collected and analyzed.  The system permits the more
+economical microfiche storage of catalog records than would be feasible
+for comparable online magnetic disk storage.  Experimental tests
+demonstrate the feasibility of the online microfiche catalog system for use
+in library technical services and retrieval of bibliographic data.  The
+primary result of the project is the creation of a completely operational
+facility, including all equipment, software, procedures, and data bases
+necessary to demonstrate the system.  A second set of results is derived
+from the experimental use of the system and the evaluation of costs and
+times for various operations.  The cost effectiveness of the online microfiche
+catalog is demonstrated.
+.B
+(Information Processing and Management, Vol. 16, No. 6, February 1980,
+pp. 277-289)
+
+.I 26
+.W
+Image recognition and any other methods of automatically
+transforming printed text into computer-ready form.
+.I 27
+.T
+The Relational Model in Information Retrieval
+.A
+Crawford, R.G.
+.W
+    The relational model has received increasing attention during the
+past decade.  Its advantages include simplicity, consistency, and a sound
+theoretical basis.  In this article, the naturalness of viewing information
+retrieval relationally is demonstrated.  The relational model is presented,
+and the relational organization of a bibliographical database is shown.
+The notion of normalization is introduced and first, second, third, and
+fourth normal forms are demonstrated.  Relational languages are discussed,
+including the relational calculus, relational algebra, and SEQUEL.
+Numerous examples pertinent to information retrieval are presented in these
+relational languages.  Advantages of the relational approach to information
+retrieval are noted.
+.B
+(JASIS, Vol. 32, No. 1, January 1981, pp. 51-64)
+
+.I 28
+.T
+Cooperation and Competition Among Library Networks
+.A
+Robinson, B.M.
+.W
+    Recenty technological advances and the success of OCLC, Inc. has led
+to the emergence of three additional nonprofit library networks:  the
+Research Libraries Information Network (RLIN) of the Research Libraries
+Group, Inc., the University of Toronto Library Automation System (UTLAS),
+and the Washington Library Network (WLN).  This paper examines the economic
+and technological factors affecting the evolution of these networks and
+also explores the role of those state and regional (multistate) networks
+that broker OCLC services.  The competitive and cooperative nature of
+network relationships is a major theme of the discussion.
+.B
+(JASIS, Vol. 31, No. 6, November 1980, pp. 413-424)
+
+.I 29
+.T
+Approximate String Matching
+.A
+Hall, P.A.V.
+Dowling, G.R.
+.W
+    Approximate matching of strings is reviewed with the aim of
+surveying techniques suitable for finding an item in a database when
+there may be a spelling mistake or other error in the keyword.  The
+methods found are classified as either equivalence or similarity problems.
+Equivalence problems are seen to be readily solved using canonical forms.
+For similarity problems difference measures are surveyed, with a full
+description of the well-established dynamic programming method relating
+this to the approach using probabilities and likelihoods.  Searches for
+approximate matches in large sets using a difference function are seen to
+be an open problem still, though several promising ideas have been
+suggested.  Approximate matching (error correction) during parsing is
+briefly reviewed.
+.B
+(Computing Surveys, Vol. 12, No. 4, December 1980, pp. 381-402)
+
+.I 30
+.W
+I am looking for information about the impact of automation on
+libraries and its significance for libraries in general.  This includes
+the increasing importance of automation in view of the proliferation of
+information today, and how automation can help libraries cope with
+this problem.  How will automation affect libraries and how should they
+react to the idea of automation?
+
